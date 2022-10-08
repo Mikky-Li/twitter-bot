@@ -37,9 +37,10 @@ def bot():
                 print(mention.id)
                 print(mention.in_reply_to_status_id)
                 print(mention.in_reply_to_screen_name)
-                #get the tweets video in downloading format
+                #get the original tweets
                 tweet = api.get_status(mention.in_reply_to_status_id)
                 print(tweet.text)
+                #deploy the translator and get the translated text
                 target = '新鲜出炉的中文翻译：'+GoogleTranslator(source='auto', target='zh-CN').translate(tweet.text)
                 print(target)
                 #send the tweet
