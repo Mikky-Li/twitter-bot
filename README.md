@@ -6,7 +6,7 @@ Including two different bots.
 Just run download_bot.py and it'll reply video downloading links to anyone who mentioned you under a video tweets. 
 
 2、
-Just run download_bot.py and it'll reply translated text of the original tweet to anyone who mentioned you under the original tweets. 
+Just run translate_bot.py and it'll reply translated text of the original tweet to anyone who mentioned you under the original tweets. 
 
 However, you need to create and use your own Twitter Tokens, innit?
 
