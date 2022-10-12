@@ -16,13 +16,14 @@ just run delete_tweets.py and all of your tweets will be deleted.
 However, you need to create and use your own Twitter Tokens, innit?
 
 Examples down below:
----------------------------------------------------------------------------------------------------
+
 Download_Bot:
-![alt text](https://github.com/Mikky-Li/twitter-downloading-bot/blob/main/example%201.jpg?raw=true)
-![alt text](https://github.com/Mikky-Li/twitter-downloading-bot/blob/main/example%202.jpg?raw=true)
+![alt text](https://github.com/Mikky-Li/twitter-bot/blob/main/examples/example%201.jpg?raw=true)
+![alt text](https://github.com/Mikky-Li/twitter-bot/blob/main/examples/example%202.jpg?raw=true)
 ---------------------------------------------------------------------------------------------------
 Translate_Bot
-![alt text](https://github.com/Mikky-Li/twitter-downloading-bot/blob/main/example%203.jpg?raw=true)
+![alt text](https://github.com/Mikky-Li/twitter-bot/blob/main/examples/example%203.jpg?raw=true)
 ---------------------------------------------------------------------------------------------------
 TEXT2IMAGE_Bot
-![alt text](https://github.com/Mikky-Li/twitter-bot/blob/main/txt2image%20example.png?raw=true)
+![alt text](https://github.com/Mikky-Li/twitter-bot/blob/main/examples/txt2image%20example.png?raw=true)
+---------------------------------------------------------------------------------------------------
