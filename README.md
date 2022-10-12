@@ -25,4 +25,4 @@ Translate_Bot
 ![alt text](https://github.com/Mikky-Li/twitter-downloading-bot/blob/main/example%203.jpg?raw=true)
 ---------------------------------------------------------------------------------------------------
 TEXT2IMAGE BOT
-![alt text](https://github.com/Mikky-Li/twitter-bot/blob/main/text2image.py?raw=true)
+![alt text](https://github.com/Mikky-Li/twitter-bot/blob/main/txt2image%20example.png?raw=true)
